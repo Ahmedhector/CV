@@ -1,6 +1,6 @@
 <div align="center" >
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Silkscreen&size=30&duration=2500&color=979797&width=435&lines=Front-End+Developer;Human+Resources)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Silkscreen&size=30&duration=2500&color=979797&width=435&lines=BackEnd+Developer;Human+Resources)](https://git.io/typing-svg)
 </div>
 <p align="center">
 <a href="https://www.linkedin.com/in/ahmed-amr-0b81a5279/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="2xdo" height="20" width="30" /></a>
