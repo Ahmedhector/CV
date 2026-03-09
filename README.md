@@ -11,12 +11,10 @@
 </p>
 
 ## About me
-- I'm a web developer specializing in Front-End development using Html and Css, as well as javascript.
-- Intermediate experience in graphic design 
-With good experience in dealing with WordPress .
-- I would like to learn more about web development, especially JavaScript and learn Backend
- Develop it and become a full-fledged web developer.
-- In the near future, I plan to learn and specialize in DevOps.
+I am a Human Resources professional with strong skills in communication, teamwork, and problem-solving.
+Alongside my HR experience, I have a background in web development and I am currently studying Backend Development to build a career in tech.
+I am passionate about learning, improving my technical skills, and becoming a professional Backend Developer through practical experience and continuous growth.
+
 
 
 ## Languages and Tools:
